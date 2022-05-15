@@ -1,2 +1,1 @@
-# riddim-hater
-Jogo feito na Godot Engine 
+# Riddim Hater
