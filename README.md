@@ -2,12 +2,23 @@
 ###### "Monstros surgiram das trevas e querem acabar com todo Riddim (Ô.Ô'). Não deixe isso acontecer! pegue sua _Riddim-Weapon_ e acabe com eles! 
 
 ## Definições gerais
-`2D` `scroll view` `flat` `boss fight` `ritimico` `bullet hell`
+`2D` `scroll view` `ação` `flat` `boss fight` `Rhythm` `bullet hell`
+
+#### Ambição
+_"O meu que desejo com esse projeto é, sentir a emoção do estilo Riddim enquanto se diverte em batalhas dramáticas..."_
 
 #### Resumo 
 Monstros gigantes surgiram das trevas. Use sua _Riddim-weapon_ e derrote todos um a um em uma batalha emocionante com muito brilho, sangue e Riddim.
 
+#### referências
+Riddim - temática</br>
+Contra - jogabilidade</br>
 
+#### concorrência
+Jogos Rhythm
+
+#### Proposta
+A mecanica de ritmo é algo diferente de tudo, com o acréscimo da Jogabilidade de um jogo de ação.
 
 
 ## Elementos
@@ -34,7 +45,7 @@ Possui hitbox em posições destacadas, algumas precisam de oportunidades para s
 #### ataques do jogador
 As armas podem disparar automaticamente iu manualmente, o jogador precisa mirar com o mouse e esperar o projétil sair, pois mesmo manualmente, os disparos seguem o ritmo da música.</br>
 
-#### Sincronia e loops
+#### Sincronia e ritmo
 A cada estrofe se tem o "tempo ocioso", nesse espaço de tempo o jogador poderá trocar de arma e assim conseguir bônus caso acerte o _timing_.</br>
 Os bônus melhoram as propriedades da arma e pode acumular caso o jogador siga sequências de troca de armas definidas.</br>
 
