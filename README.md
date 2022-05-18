@@ -20,6 +20,25 @@ Jogos Rhythm
 #### Proposta
 A mecanica de ritmo é algo diferente de tudo, com o acréscimo da Jogabilidade de um jogo de ação.
 
+#### Como se joga:
+Jogo ligeiramente difícil, o jogador deve se concentrar em desviar dos ataques do chefe ao mesmo tempo que ataca o chefe incessantemente.
+
+#### Requisitos:
+Publico alvo: +12
+
+#### Plataformas:
+Pc
+
+## Regras do jogo
+#### desafios:
+Cada chefe é um desafio diferente, com Mecanicas diferentes.
+
+#### evolução:
+Cada chefe tem um nível de dificuldade que aumenta com o passar de fases.</br>
+O jogador desbloqueia novas armas fase concluída.
+
+#### conclusão:
+Ao derrotar todos os chefes, a campanha é finalizada.
 
 ## Elementos
 #### O jogador
