@@ -51,14 +51,21 @@ Oculpa boa parte da tela.</br>
 Possui muita vida.</br>
 Possui hitbox em posições destacadas, algumas precisam de oportunidades para serem visualizadas.</br>
 
-
 #### A arma
+Cada arma tem seu som e seu projetil, a taxa de disparo acompanha o seu som.</br>
+Sempre mira na direção do mouse e pode disparar automaticamente.</br>
+O jogador pode carregar até 4 armas.
 
 #### A música
+A pista principal acompanha toda a gameplay e pode se intensificar conforme o jogador comba.</br>
+O sons das armas acompanha a pista principal na forma que a complemente.</br>
 
 #### O cenário
+Cenários comuns entre _boss battle_, com plataformas, para que o jogador se posicione de acordo.
 
 #### ítens
+- Cura: recuperar vida do jogador caso tenha perdido.
+- escudo: proteje o jogador do próximo dano, desaparece em 10 segundos.
 
 ## Mecanicas
 #### ataques do jogador
