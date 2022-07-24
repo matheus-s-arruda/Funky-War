@@ -8,7 +8,7 @@
 _"Musica e pancadaria"_
 
 #### Resumo 
-Monstros horriveis que odeiam musica está atacando! Derrote todos um a um em uma batalha emocionante com muito brilho, sangue e ritmo.
+Monstros horriveis que odeiam musica querem destroir o Core Sync! Derrote todos um a um em uma batalha emocionante com muito brilho, sangue e ritmo.
 
 #### referências
 Riddim - temática
