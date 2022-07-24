@@ -44,6 +44,8 @@ Ao derrotar todos os chefes, a campanha é finalizada.
 
 ## Elementos
 #### O jogador
+Há varios personagens que o jogador pode escolher, cada um com caracteristicas unicas.
+
 Se movimenta pelo cenario.
 
 Sofre dano se for tocado pelos ataques do chefe.
@@ -89,5 +91,5 @@ A cada estrofe se tem o "tempo ocioso", nesse espaço de tempo o jogador poderá
 
 Os bônus melhoram as propriedades da arma e pode acumular caso o jogador siga sequências de troca de armas definidas.
 
-
+#### Desbloqueio de personagens de acordo com a progressão
 
