@@ -8,7 +8,7 @@
 _"Musica e pancadaria"_
 
 #### Resumo 
-Monstros gigantes surgiram das trevas. Use sua _Riddim-weapon_ e derrote todos um a um em uma batalha emocionante com muito brilho, sangue e Riddim.
+Monstros horriveis que odeiam musica está atacando! Derrote todos um a um em uma batalha emocionante com muito brilho, sangue e ritmo.
 
 #### referências
 Riddim - temática
