@@ -1,11 +1,11 @@
-# Riddim Hater
-###### "Monstros surgiram das trevas e querem acabar com todo Riddim (Ô.Ô'). Não deixe isso acontecer! pegue sua _Riddim-Weapon_ e acabe com eles! 
+# Funky War
+###### "Monstros surgiram das trevas e querem acabar com toda a musica! (Ô.Ô'). Não deixe isso acontecer, Vamos a luta! 
 
 ## Definições gerais
 `2D` `scroll view` `ação` `flat` `boss fight` `Rhythm` `bullet hell`
 
 #### Ambição
-_"O meu que desejo com esse projeto é, sentir a emoção do estilo Riddim enquanto se diverte em batalhas dramáticas..."_
+_"Musica e pancadaria"_
 
 #### Resumo 
 Monstros gigantes surgiram das trevas. Use sua _Riddim-weapon_ e derrote todos um a um em uma batalha emocionante com muito brilho, sangue e Riddim.
