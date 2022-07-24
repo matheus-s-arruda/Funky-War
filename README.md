@@ -13,6 +13,8 @@ Monstros horriveis que odeiam musica está atacando! Derrote todos um a um em um
 #### referências
 Riddim - temática
 
+Guitar Hero - estilo de jogo
+
 Contra - jogabilidade
 
 #### concorrência
@@ -73,6 +75,8 @@ O sons das armas acompanha a pista principal na forma que a complemente.
 
 #### O cenário
 Cenários comuns entre _boss battle_, com plataformas, para que o jogador se posicione de acordo.
+
+#### Pontuações
 
 #### ítens
 - Cura: recuperar vida do jogador caso tenha perdido.
